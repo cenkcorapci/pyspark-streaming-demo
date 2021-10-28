@@ -1,4 +1,0 @@
-pyspark==3.2.0
-confluent-kafka==1.7.0
-obspy==1.2.2
-tqdm==4.62.3
